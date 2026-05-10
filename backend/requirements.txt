@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+transformers
+torch
+torchvision
+torchaudio
+pillow
+opencv-python
+numpy
+accelerate
+python-multipart
+python-dotenv
+easyocr
+datasets
+pdf2image

@@ -1,0 +1,29 @@
+# Data and huge files
+nlp_project_notebook.ipynb
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+.venv/
+backend/venv/
+
+# Node
+node_modules/
+dist/
+.next/
+out/
+build/
+.npm
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
